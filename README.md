@@ -1,4 +1,4 @@
-# -Wordpress-Plugin-Simple-File-List-4.2.2---Arbitrary-File-Upload
+# Wordpress Plugin Simple File List 4.2.2 Arbitrary-File-Upload
 Modified the original script so that it permits file uploading.
 
 General Usage:
